@@ -1,0 +1,2 @@
+# scripts
+General script directory
